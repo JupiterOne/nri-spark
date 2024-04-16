@@ -1,2 +1,2 @@
 builds:
-  main: ./src/nr-spark-metric.go
+  - main: ./src/nr-spark-metric.go
